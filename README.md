@@ -34,7 +34,6 @@ Estoque_projeto/
 ├── main.py
 ├── banco.py
 ├── produto.py
-├── estoque.db
 └── README.md
 ```
 
