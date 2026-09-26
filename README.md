@@ -43,7 +43,6 @@ Estoque_projeto/
 * `main.py` — responsável pelo menu e controle do sistema.
 * `banco.py` — responsável pela conexão com o banco de dados e criação da tabela.
 * `produto.py` — contém as operações de cadastro, listagem, busca, alteração e exclusão de produtos.
-* `estoque.db` — banco de dados SQLite utilizado pelo sistema.
 * `README.md` — documentação do projeto.
 
 ## Validações
